@@ -7,6 +7,13 @@ Currently, two official plugins are available:
 -   [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 -   [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+1. npm i bootstrap@5.3.3
+2. npm install react-router-dom
+3. npm i @react-oauth/google
+4. npm i react-icons
+5. npm install -D sass-embedded
+6. npm i react-calendar
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
@@ -48,15 +55,3 @@ export default tseslint.config({
     },
 });
 ```
-
-# npm i bootstrap@5.3.3
-
-# npm install react-router-dom
-
-# npm i @react-oauth/google
-
-# npm i react-icons
-
-# npm install -D sass-embedded
-
-# npm i react-calendar
